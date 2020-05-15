@@ -4,17 +4,15 @@
 width:300px;
 height: 200px;
 margin: 10px;
+}
+
 h3{
 border: 10px;
 width: 101px;
 height: 5px;
 padding: 5px;
-
-
-
 }
 
-}
 #fact{
     font-style: italic;
     margin-left: 10px;
